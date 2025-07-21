@@ -1,2 +1,4 @@
 active employees = sum('HR data'[Employee Count]) - sum('HR data'[Count Attrition])
 
+Attrirtion Rate = SUM('HR data'[Count Attrition])/SUM('HR data'[Employee Count])
+
